@@ -1,1 +1,1 @@
-# Klikacz
+Klikaj liczby w kolejności rosnącej
