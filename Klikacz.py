@@ -122,15 +122,3 @@ lista_liczby.sort()
 licznik = 0
 
 main_window.mainloop()
-
-
-
-'''Pytania i wątpliwości'''
-
-#  Zdarza się że losują się dwie identyczne liczby (program mimo tego wykonuje się prawidłowo),
-# czy trzeba wporwadzać zabezpieczenie przed taką sytuacją?
-
-# Jakie jest oznaczenie naturalnego koloru przycisku - albo jak po zmianie koloru widżetu
-# przywrócić jego pierwotny kolor? Bez tej wiedzy musiałem przyciskom narzucić kolor z góry
-# (funkcja zmienia je na czerwony, po czym wraca do koloru narzuconego,
-# a chciałbym żeby przycisk odzyskał "naturalny" kolor sprzed kliknięcia)
